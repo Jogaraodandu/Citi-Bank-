@@ -1,4 +1,3 @@
-Citi Bank Ticket Analysis Dashboard
 Project Overview
 This project focuses on analyzing customer support tickets for a banking system to uncover trends, improve service efficiency, and enhance customer satisfaction. The dashboard provides a comprehensive view of ticket volume, resolution time, issue categories, and agent performance.
 
